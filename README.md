@@ -73,6 +73,5 @@
 
 ## Fontes 
 
-[SOLID com Java: Princípios da programação orientada a objetos](https://cursos.alura.com.br/course/solid-orientacao-objetos-java)
-
-[SOLID Design Principles]([https://link](https://thedavidmasters.com/2018/10/27/solid-design-principles/))
+* [SOLID com Java: Princípios da programação orientada a objetos](https://cursos.alura.com.br/course/solid-orientacao-objetos-java)
+* [SOLID Design Principles](https://thedavidmasters.com/2018/10/27/solid-design-principles/)
